@@ -12,6 +12,8 @@ public class Program {
 		
 		Date x1 = new Date();
 		
+		System.out.println("Bom dia");
+		
 		Date y1 = sdf1.parse("25/06/2018");
 		Date y2 = sdf2.parse("25/06/2018 15:42:07");
 		
